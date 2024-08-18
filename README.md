@@ -31,10 +31,10 @@ This Python script monitors your Ethernet connection in real-time, plays an aler
 
    ```bash
    # Create a new Conda environment
-   conda create -n ethernet-monitor python=3.8
+   conda create -n netMonitor python=3.8
 
    # Activate the environment
-   conda activate ethernet-monitor
+   conda activate netMonito
 
    # Install required packages
    conda install -c conda-forge pygame
