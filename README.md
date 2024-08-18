@@ -49,13 +49,13 @@ This Python script monitors your Ethernet connection in real-time, plays an aler
 1. **Activate the Conda environment**
 
    ```bash
-   conda activate ethernet-monitor
+   conda activate netMonitor
    ```
 
 2. **Run the script**
 
    ```bash
-   python ethernet_monitor.py
+   python net_monitor.py
    ```
 
 3. **Terminating the script**
